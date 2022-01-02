@@ -1,0 +1,19 @@
+modLoader="javafml"
+loaderVersion="[38,)"
+license="MIT"
+
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/"
+
+[[mods]]
+modId="rcreloaded"
+version="1.1.0"
+displayName="Ratchet and Clank : Reloaded"
+authors="TaeliaDideaux"
+description='''
+Rejoin Ratchet and Clank in this cubic world !
+'''
+
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+#displayURL="https://change.me.to.your.mods.homepage.example.invalid/"
+#logoFile="examplemod.png"
+#credits="Thanks for this example mod goes to Java"

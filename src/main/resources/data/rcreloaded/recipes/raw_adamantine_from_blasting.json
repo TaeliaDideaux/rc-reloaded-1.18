@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": { "item": "rcreloaded:adamantine_ore" },
+    "result": "rcreloaded:raw_adamantine",
+    "experience": 2.1,
+    "cookingtime": 100
+}

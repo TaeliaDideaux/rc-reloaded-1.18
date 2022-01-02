@@ -1,0 +1,8 @@
+{
+	"block.bolt_crate.break": {
+		"sounds": [
+			"rcreloaded:bolt_crate_break"
+		],
+		"subtitle": "subtitles.block.generic.break"
+	}
+}

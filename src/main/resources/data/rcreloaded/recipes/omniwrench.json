@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "l l",
+        "*-*",
+        " / "
+    ],
+    "key": {
+        "-": { "item": "minecraft:diamond_block" },
+        "*": { "item": "rcreloaded:raritanium_alloy" },
+        "l": { "item": "rcreloaded:raritanium_alloy_nugget" },
+        "/": { "item": "rcreloaded:wrench_handle" }
+    },
+    "result": {
+        "item": "rcreloaded:omniwrench",
+        "count": 1
+    }
+}

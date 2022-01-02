@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "l l",
+        "*-*",
+        " / "
+    ],
+    "key": {
+        "-": { "item": "rcreloaded:adamantine_block" },
+        "*": { "item": "rcreloaded:adamantine_alloy" },
+        "l": { "item": "rcreloaded:adamantine_alloy_nugget" },
+        "/": { "item": "rcreloaded:omniwrench10000" }
+    },
+    "result": {
+        "item": "rcreloaded:omniwrench12000",
+        "count": 1
+    }
+}

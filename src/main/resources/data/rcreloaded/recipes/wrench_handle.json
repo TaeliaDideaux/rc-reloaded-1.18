@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  i",
+        " / ",
+        "i  "
+    ],
+    "key": {
+        "i": { "item": "minecraft:iron_nugget" },
+        "/": { "item": "minecraft:stick" }
+    },
+    "result": {
+        "item": "rcreloaded:wrench_handle",
+        "count": 1
+    }
+}

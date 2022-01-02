@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": [
+    	{ "item": "rcreloaded:raritanium_ore" },
+    	{ "item": "rcreloaded:deepslate_raritanium_ore" }
+    ],
+    "result": "rcreloaded:raw_raritanium",
+    "experience": 2,
+    "cookingtime": 200
+}

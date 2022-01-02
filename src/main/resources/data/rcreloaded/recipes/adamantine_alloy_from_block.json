@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "adamantine_alloy",
+    "ingredients": [
+        { "item": "rcreloaded:adamantine_block" }
+    ],
+    "result": {
+        "item": "rcreloaded:adamantine_alloy",
+        "count": 9
+    }
+}

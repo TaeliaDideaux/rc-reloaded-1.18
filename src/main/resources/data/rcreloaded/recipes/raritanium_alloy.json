@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " * ",
+        "*o*",
+        " * "
+    ],
+    "key": {
+        "o": { "item": "minecraft:iron_ingot" },
+        "*": { "item": "rcreloaded:refined_raritanium" }
+    },
+    "result": {
+        "item": "rcreloaded:raritanium_alloy",
+        "count": 1
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"itemGroup.rcreloadedtab": "Ratchet & Clank : Reloaded",
+	"itemGroup.rcreloadedweaponstab": "Ratchet & Clank : Reloaded Weapons",
+	
+	"item.rcreloaded.bolt": "Bolt",
+	"block.rcreloaded.bolt_crate": "Bolt crate",
+	
+	"block.rcreloaded.raritanium_ore": "Raritanium ore",
+	"block.rcreloaded.deepslate_raritanium_ore": "Deepslate Raritanium ore",
+	"item.rcreloaded.raw_raritanium": "Raw raritanium",
+	"item.rcreloaded.refined_raritanium": "Refined raritanium",
+	"item.rcreloaded.raritanium_alloy": "Raritanium alloy ingot",
+	"item.rcreloaded.raritanium_alloy_nugget": "Raritanium alloy nugget",
+	"block.rcreloaded.raritanium_block": "Raritanium alloy block",
+	
+	"item.rcreloaded.wrench_handle": "Wrench handle",
+	"item.rcreloaded.omniwrench": "Omniwrench 8000",
+	"item.rcreloaded.omniwrench10000": "Omniwrench 10000",
+	"item.rcreloaded.omniwrench12000": "Omniwrench 12000",
+	
+	"block.rcreloaded.adamantine_ore": "Adamantine ore",
+	"item.rcreloaded.raw_adamantine": "Raw adamantine",
+	"item.rcreloaded.refined_adamantine": "Refined adamantine",
+	"item.rcreloaded.adamantine_alloy": "Adamantine alloy ingot",
+	"item.rcreloaded.adamantine_alloy_nugget": "Adamantine alloy nugget",
+	"block.rcreloaded.adamantine_block": "Adamantine alloy block",
+	
+	"item.rcreloaded.clank_spawn_egg": "Clank spawn egg",
+	"entity.rcreloaded.clank": "Clank"
+}

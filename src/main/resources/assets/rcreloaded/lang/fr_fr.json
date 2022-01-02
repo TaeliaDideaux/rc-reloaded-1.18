@@ -1,0 +1,30 @@
+{
+	"itemGroup.rcreloadedtab": "Ratchet & Clank : Reloaded",
+	"itemGroup.rcreloadedweaponstab": "Ratchet & Clank : Reloaded Armes",
+	
+	"item.rcreloaded.bolt": "Boulon",
+	"block.rcreloaded.bolt_crate": "Caisse de boulons",
+	
+	"block.rcreloaded.raritanium_ore": "Minerai de raritanium",
+	"block.rcreloaded.deepslate_raritanium_ore": "Minerai de raritanium des abîmes",
+	"item.rcreloaded.raw_raritanium": "Raritanium pur",
+	"item.rcreloaded.refined_raritanium": "Raritanium raffiné",
+	"item.rcreloaded.raritanium_alloy": "Lingot d'alliage de raritanium",
+	"item.rcreloaded.raritanium_alloy_nugget": "Pépite d'alliage de raritanium",
+	"block.rcreloaded.raritanium_block": "Bloc d'alliage de raritanium",
+	
+	"item.rcreloaded.wrench_handle": "Manche de clé",
+	"item.rcreloaded.omniwrench": "SuperClé 8000",
+	"item.rcreloaded.omniwrench10000": "SuperClé 10000",
+	"item.rcreloaded.omniwrench12000": "SuperClé 12000",
+	
+	"block.rcreloaded.adamantine_ore": "Minerai d'adamantium",
+	"item.rcreloaded.raw_adamantine": "Adamantium pur",
+	"item.rcreloaded.refined_adamantine": "Adamantium raffiné",
+	"item.rcreloaded.adamantine_alloy": "Lingot d'alliage d'adamantium",
+	"item.rcreloaded.adamantine_alloy_nugget": "Pépite d'alliage d'adamantium",
+	"block.rcreloaded.adamantine_block": "Bloc d'alliage d'adamantium",
+	
+	"item.rcreloaded.clank_spawn_egg": "Oeuf d'apparition de Clank",
+	"entity.rcreloaded.clank": "Clank"
+}

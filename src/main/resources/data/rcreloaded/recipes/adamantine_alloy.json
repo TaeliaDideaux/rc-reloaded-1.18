@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "adamantine_alloy",
+    "pattern": [
+        " * ",
+        "*o*",
+        " * "
+    ],
+    "key": {
+        "o": { "item": "rcreloaded:raritanium_alloy" },
+        "*": { "item": "rcreloaded:refined_adamantine" }
+    },
+    "result": {
+        "item": "rcreloaded:adamantine_alloy",
+        "count": 1
+    }
+}

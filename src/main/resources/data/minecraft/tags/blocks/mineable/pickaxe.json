@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"rcreloaded:raritanium_ore",
+		"rcreloaded:deepslate_raritanium_ore",
+		"rcreloaded:raritanium_block",
+		"rcreloaded:adamantine_ore",
+		"rcreloaded:adamantine_block"
+	]
+}

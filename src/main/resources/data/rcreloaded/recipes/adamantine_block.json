@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "rcreloaded:adamantine_alloy" },
+        { "item": "rcreloaded:adamantine_alloy" },
+        { "item": "rcreloaded:adamantine_alloy" },
+        { "item": "rcreloaded:adamantine_alloy" },
+        { "item": "rcreloaded:adamantine_alloy" },
+        { "item": "rcreloaded:adamantine_alloy" },
+        { "item": "rcreloaded:adamantine_alloy" },
+        { "item": "rcreloaded:adamantine_alloy" },
+        { "item": "rcreloaded:adamantine_alloy" }
+    ],
+    "result": {
+        "item": "rcreloaded:adamantine_block"
+    }
+}

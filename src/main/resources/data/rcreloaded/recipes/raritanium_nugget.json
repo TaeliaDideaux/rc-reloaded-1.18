@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        { "item": "rcreloaded:raritanium_alloy" }
+    ],
+    "result": {
+        "item": "rcreloaded:raritanium_alloy_nugget",
+        "count": 9
+    }
+}
