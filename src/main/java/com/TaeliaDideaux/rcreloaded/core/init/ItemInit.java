@@ -5,6 +5,7 @@ import com.TaeliaDideaux.rcreloaded.common.item.OmniwrenchItem;
 
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.RecordItem;
 import net.minecraft.world.item.Tiers;
 import net.minecraftforge.common.ForgeSpawnEggItem;
 import net.minecraftforge.registries.DeferredRegister;
@@ -13,7 +14,7 @@ import net.minecraftforge.registries.RegistryObject;
 
 public class ItemInit {
 	
-private ItemInit() {}
+	private ItemInit() {}
 	
 	public static final DeferredRegister<Item> 				ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, RatchetAndClankReloadedMod.MODID);
 	
@@ -38,14 +39,17 @@ private ItemInit() {}
 	public static final RegistryObject<BlockItem> 			ADAMANTINE_BLOCK_ITEM = ITEMS.register("adamantine_block", () -> new BlockItem(BlockInit.ADAMANTINE_BLOCK.get(), new Item.Properties().tab(RatchetAndClankReloadedMod.RCRELOADED_TAB)));
 	
 	public static final RegistryObject<ForgeSpawnEggItem> 	CLANK_SPAWN_EGG = ITEMS.register("clank_spawn_egg", () -> new ForgeSpawnEggItem(EntityInit.CLANK, 0xAFAFAF, 0x505050, new Item.Properties().tab(RatchetAndClankReloadedMod.RCRELOADED_TAB)));
-	
+
+	public static final RegistryObject<Item>				VELDIN_KYZIL_DISC = ITEMS.register("music_disc_veldin_kyzil", () -> new RecordItem(1, () -> SoundsInit.VELDIN_KYZIL_LAZY.get(), new Item.Properties().stacksTo(1).tab(RatchetAndClankReloadedMod.RCRELOADED_TAB)));
+	public static final RegistryObject<Item>				NOVALIS_TOBRUK_DISC = ITEMS.register("music_disc_novalis_tobruk", () -> new RecordItem(1, () -> SoundsInit.NOVALIS_TOBRUK_LAZY.get(), new Item.Properties().stacksTo(1).tab(RatchetAndClankReloadedMod.RCRELOADED_TAB)));
+	public static final RegistryObject<Item>				KERWAN_METROPOLIS_DISC = ITEMS.register("music_disc_kerwan_metropolis", () -> new RecordItem(1, () -> SoundsInit.KERWAN_METROPOLIS_LAZY.get(), new Item.Properties().stacksTo(1).tab(RatchetAndClankReloadedMod.RCRELOADED_TAB)));
+	public static final RegistryObject<Item>				KERWAN_FITNESS_DISC = ITEMS.register("music_disc_kerwan_fitness", () -> new RecordItem(1, () -> SoundsInit.KERWAN_FITNESS_LAZY.get(), new Item.Properties().stacksTo(1).tab(RatchetAndClankReloadedMod.RCRELOADED_TAB)));
+	public static final RegistryObject<Item>				EUDORA_CLIFFS_DISC = ITEMS.register("music_disc_eudora_cliffs", () -> new RecordItem(1, () -> SoundsInit.EUDORA_CLIFFS_LAZY.get(), new Item.Properties().stacksTo(1).tab(RatchetAndClankReloadedMod.RCRELOADED_TAB)));
+	public static final RegistryObject<Item>				BLARG_STATION_DISC = ITEMS.register("music_disc_blarg_station", () -> new RecordItem(1, () -> SoundsInit.BLARG_STATION_LAZY.get(), new Item.Properties().stacksTo(1).tab(RatchetAndClankReloadedMod.RCRELOADED_TAB)));
 	
 	
 	public static final RegistryObject<Item> 				WRENCH_HANDLE = ITEMS.register("wrench_handle", () -> new Item(new Item.Properties().tab(RatchetAndClankReloadedMod.RCRELOADED_WEAPONS_TAB)));
-	
 	public static final RegistryObject<Item> 				OMNIWRENCH = ITEMS.register("omniwrench", () -> new OmniwrenchItem(Tiers.DIAMOND, new Item.Properties().tab(RatchetAndClankReloadedMod.RCRELOADED_WEAPONS_TAB)));
 	public static final RegistryObject<Item> 				OMNIWRENCH10000 = ITEMS.register("omniwrench10000", () -> new OmniwrenchItem(ToolMaterialInit.RARITANIUM, new Item.Properties().tab(RatchetAndClankReloadedMod.RCRELOADED_WEAPONS_TAB)));
 	public static final RegistryObject<Item> 				OMNIWRENCH12000 = ITEMS.register("omniwrench12000", () -> new OmniwrenchItem(ToolMaterialInit.ADAMANTINE, new Item.Properties().tab(RatchetAndClankReloadedMod.RCRELOADED_WEAPONS_TAB)));
-	
-
 }

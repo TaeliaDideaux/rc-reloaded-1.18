@@ -26,5 +26,21 @@
 	"block.rcreloaded.adamantine_block": "Bloc d'alliage d'adamantium",
 	
 	"item.rcreloaded.clank_spawn_egg": "Oeuf d'apparition de Clank",
-	"entity.rcreloaded.clank": "Clank"
+	"entity.rcreloaded.clank": "Clank",
+	
+	"item.rcreloaded_disc.sub": "OST Ratchet et Clank qui joue",
+	"item.rcreloaded.music_disc_veldin_kyzil": "Plateau de Kyzil", 				"item.rcreloaded.music_disc_veldin_kyzil.desc": "David Bergeaud - Veldin (Plateau de Kyzil)",
+	"item.rcreloaded.music_disc_novalis_tobruk": "Cratere Tobruk", 				"item.rcreloaded.music_disc_novalis_tobruk.desc": "David Bergeaud - Novalis (Cratere Tobruk)",
+	"item.rcreloaded.music_disc_kerwan_metropolis": "Metropolis", 				"item.rcreloaded.music_disc_kerwan_metropolis.desc": "David Bergeaud - Kerwan (Metropolis)",
+	"item.rcreloaded.music_disc_kerwan_fitness": "La course fitness", 			"item.rcreloaded.music_disc_kerwan_fitness.desc": "David Bergeaud - Kerwan (La course fitness)",
+	"item.rcreloaded.music_disc_aridia_outpost": "Aridia Outpost X11", 			"item.rcreloaded.music_disc_aridia_outpost.desc": "David Bergeaud - Aridia Outpost X11",
+	"item.rcreloaded.music_disc_eudora_logging": "Site de deforestation", 		"item.rcreloaded.music_disc_eudora_logging.desc": "David Bergeaud - Eudora (Site de deforestation)",
+	"item.rcreloaded.music_disc_eudora_cliffs": "Les falaises",		 			"item.rcreloaded.music_disc_eudora_cliffs.desc": "David Bergeaud - Eudora (Les falaises)",
+	"item.rcreloaded.music_disc_blarg_station": "Station Blarg", 				"item.rcreloaded.music_disc_blarg_station.desc": "David Bergeaud - NebulaG34 (Station Blarg)",
+	"item.rcreloaded.music_disc_rilgar_blackwater": "Blackwater City", 			"item.rcreloaded.music_disc_rilgar_blackwater.desc": "David Bergeaud - Rilgar (Blackwater City)",
+	"item.rcreloaded.music_disc_batalia_rail": "Rail grinding", 				"item.rcreloaded.music_disc_batalia_rail.desc": "David Bergeaud - Batalia (Rail grinding)",
+	"item.rcreloaded.music_disc_pokitaru_jowai": "Station Jowai", 				"item.rcreloaded.music_disc_pokitaru_jowai.desc": "David Bergeaud - Pokitaru (Station Jowai)",
+	"item.rcreloaded.music_disc_hoven_hydropuzzle": "Puzzle hydroplaceur",		"item.rcreloaded.music_disc_hoven_hydropuzzle.desc": "David Bergeaud - Hoven (Puzzle hydroplaceur)",
+	"item.rcreloaded.music_disc_kalebo_gadgetron": "Site Gadgetron", 			"item.rcreloaded.music_disc_kalebo_gadgetron.desc": "David Bergeaud - Kalebo III (Site Gadgetron)",
+	"item.rcreloaded.music_disc_chairman_drek": "President Drek", 				"item.rcreloaded.music_disc_chairman_drek.desc": "David Bergeaud - Veldin in peril (President Drek)"
 }

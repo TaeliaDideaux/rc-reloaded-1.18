@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "wrench",
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "rcreloaded:items/omniwrench12000"

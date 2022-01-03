@@ -26,5 +26,21 @@
 	"block.rcreloaded.adamantine_block": "Adamantine alloy block",
 	
 	"item.rcreloaded.clank_spawn_egg": "Clank spawn egg",
-	"entity.rcreloaded.clank": "Clank"
+	"entity.rcreloaded.clank": "Clank",
+	
+	"item.rcreloaded_disc.sub": "Ratchet and Clank OST playing",
+	"item.rcreloaded.music_disc_veldin_kyzil": "Kyzil Plateau", 				"item.rcreloaded.music_disc_veldin_kyzil.desc": "David Bergeaud - Veldin (Kyzil Plateau)",
+	"item.rcreloaded.music_disc_novalis_tobruk": "Tobruk Crater", 				"item.rcreloaded.music_disc_novalis_tobruk.desc": "David Bergeaud - Novalis (Tobruk Crater)",
+	"item.rcreloaded.music_disc_kerwan_metropolis": "Metropolis", 				"item.rcreloaded.music_disc_kerwan_metropolis.desc": "David Bergeaud - Kerwan (Metropolis)",
+	"item.rcreloaded.music_disc_kerwan_fitness": "The fitness course", 			"item.rcreloaded.music_disc_kerwan_fitness.desc": "David Bergeaud - Kerwan (The fitness course)",
+	"item.rcreloaded.music_disc_aridia_outpost": "Aridia Outpost X11", 			"item.rcreloaded.music_disc_aridia_outpost.desc": "David Bergeaud - Aridia Outpost X11",
+	"item.rcreloaded.music_disc_eudora_logging": "Logging site", 				"item.rcreloaded.music_disc_eudora_logging.desc": "David Bergeaud - Eudora (Logging site)",
+	"item.rcreloaded.music_disc_eudora_cliffs": "Scaling the Cliffs", 			"item.rcreloaded.music_disc_eudora_cliffs.desc": "David Bergeaud - Eudora (Scaling the Cliffs)",
+	"item.rcreloaded.music_disc_blarg_station": "Blarg station", 				"item.rcreloaded.music_disc_blarg_station.desc": "David Bergeaud - NebulaG34 (Blarg station)",
+	"item.rcreloaded.music_disc_rilgar_blackwater": "Blackwater City", 			"item.rcreloaded.music_disc_rilgar_blackwater.desc": "David Bergeaud - Rilgar (Blackwater City)",
+	"item.rcreloaded.music_disc_batalia_rail": "Rail grinding", 				"item.rcreloaded.music_disc_batalia_rail.desc": "David Bergeaud - Batalia (Rail grinding)",
+	"item.rcreloaded.music_disc_pokitaru_jowai": "Jowai resort", 				"item.rcreloaded.music_disc_pokitaru_jowai.desc": "David Bergeaud - Pokitaru (Jowai resort)",
+	"item.rcreloaded.music_disc_hoven_hydropuzzle": "Hydrodisplacer puzzle",	"item.rcreloaded.music_disc_hoven_hydropuzzle.desc": "David Bergeaud - Hoven (Hydrodisplacer puzzle)",
+	"item.rcreloaded.music_disc_kalebo_gadgetron": "Gadgetron site", 			"item.rcreloaded.music_disc_kalebo_gadgetron.desc": "David Bergeaud - Kalebo III (Gadgetron site)",
+	"item.rcreloaded.music_disc_chairman_drek": "Chairman Drek", 				"item.rcreloaded.music_disc_chairman_drek.desc": "David Bergeaud - Veldin in peril (Chairman Drek)"
 }

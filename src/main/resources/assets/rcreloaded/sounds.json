@@ -1,8 +1,36 @@
 {
 	"block.bolt_crate.break": {
-		"sounds": [
-			"rcreloaded:bolt_crate_break"
-		],
+		"sounds": [ "rcreloaded:bolt_crate_break" ],
 		"subtitle": "subtitles.block.generic.break"
+	},
+	"item.veldin_kyzil_disc": {
+		"category": "item",
+		"subtitle": "item.rcreloaded_disc.sub",
+		"sounds": [ { "name": "rcreloaded:item/music_disc_veldin_kyzil", "stream": true } ]
+	},
+	"item.novalis_tobruk_disc": {
+		"category": "item",
+		"subtitle": "item.rcreloaded_disc.sub",
+		"sounds": [ { "name": "rcreloaded:item/music_disc_novalis_tobruk", "stream": true } ]
+	},
+	"item.kerwan_metropolis_disc": {
+		"category": "item",
+		"subtitle": "item.rcreloaded_disc.sub",
+		"sounds": [ { "name": "rcreloaded:item/music_disc_kerwan_metropolis", "stream": true } ]
+	},
+	"item.kerwan_fitness_disc": {
+		"category": "item",
+		"subtitle": "item.rcreloaded_disc.sub",
+		"sounds": [ { "name": "rcreloaded:item/music_disc_kerwan_fitness", "stream": true } ]
+	},
+	"item.eudora_cliffs_disc": {
+		"category": "item",
+		"subtitle": "item.rcreloaded_disc.sub",
+		"sounds": [ { "name": "rcreloaded:item/music_disc_eudora_cliffs", "stream": true } ]
+	},
+	"item.blarg_station_disc": {
+		"category": "item",
+		"subtitle": "item.rcreloaded_disc.sub",
+		"sounds": [ { "name": "rcreloaded:item/music_disc_blarg_station", "stream": true } ]
 	}
 }
